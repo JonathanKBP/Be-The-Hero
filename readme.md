@@ -1,13 +1,6 @@
-![Heroku Status](https://heroku-badge.herokuapp.com/?app=omnistack-be-the-hero)
-![Netlify Status](https://api.netlify.com/api/v1/badges/55525325-f149-43f7-b2ac-a153aeffb538/deploy-status)
-
 # Be The Hero
 O Be The  Hero é um meio de conectar ONGS que necessitam de algum tipo de ajuda a pessoas que podem contribuir.
 Esse projeto foi desenvolvimento durante a Semana OmniStack 11.0, um evento da @Rocketseat, onde construimos uma aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
-
-**Versão online**
-* [API Heroku](https://omnistack-be-the-hero.herokuapp.com)
-* [FrontEnd Netlify](https://confident-kare-1f5021.netlify.com/)
 
 ## Features
 * A ONG poderá fazer login na aplicação.
