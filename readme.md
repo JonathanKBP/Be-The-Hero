@@ -24,7 +24,7 @@ Para executar o projeto, será necessário instalar/usar os seguintes programas
 
 ## Prints do sistema
 * **WEB**
-  ![Web](/screenshots/web.gif)
+![Web](/screenshots/web.gif)
   
 * **Mobile**                
-  ![Screenshots](screenshots/beTheHeroScreenshots.png)
+![Screenshots](screenshots/beTheHeroScreenshots.png)
