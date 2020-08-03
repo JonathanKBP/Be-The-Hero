@@ -1,3 +1,11 @@
+<h3 align="center">
+  <a href="#be-the-hero">Sobre</a>&nbsp;|&nbsp;
+  <a href="#funções">Funções</a>&nbsp;|&nbsp;
+  <a href="#requisitos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#prints-do-sistema">Prints do sistema</a>&nbsp;|&nbsp;
+</h3>
+
 # Be The Hero
 O Be The  Hero é um meio de conectar ONGS que necessitam de algum tipo de ajuda a pessoas que podem contribuir.
 Esse projeto foi desenvolvimento durante a Semana OmniStack 11.0, um evento da @Rocketseat, onde construimos uma aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
