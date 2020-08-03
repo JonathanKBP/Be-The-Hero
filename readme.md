@@ -1,3 +1,6 @@
+<p align=center>
+  <img width="50%" src="https://github.com/JonathanKBP/Be-The-Hero/blob/master/screenshots/Logo.png"  alt="logo da aplicação" />
+</p>
 <h3 align="center">
   <a href="#be-the-hero">Sobre</a>&nbsp;|&nbsp;
   <a href="#funções">Funções</a>&nbsp;|&nbsp;
